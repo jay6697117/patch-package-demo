@@ -1,0 +1,13 @@
+diff --git a/node_modules/keyboard-comp-zjh/dist/keyboard-comp.esm.js b/node_modules/keyboard-comp-zjh/dist/keyboard-comp.esm.js
+index 51c9f02..587fcbc 100644
+--- a/node_modules/keyboard-comp-zjh/dist/keyboard-comp.esm.js
++++ b/node_modules/keyboard-comp-zjh/dist/keyboard-comp.esm.js
+@@ -120,7 +120,7 @@ var script = {
+     //传入车牌号
+     vehiclePlate: {
+       type: String,
+-      default: ''
++      default: '京A12345'
+     },
+     //是否开启键盘禁用
+     isDisable: {
